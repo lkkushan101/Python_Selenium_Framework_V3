@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23df5af0-3c86-4a58-976e-ea678c219cd8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utility/ReadExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utility/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/registration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/register_steps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SeleniumPageObjectModel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeleniumPageObjectModel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/ConfirmationPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/ConfirmationPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/test_TestCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/test_TestCase.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-169559668">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="json" value="1" />
+          <entry key="py" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="5" />
+          <entry key="json" value="42" />
+          <entry key="py" value="464" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="42" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="464" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-486585032">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="feature" value="125" />
+          <entry key="py" value="519" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="125" />
+          <entry key="Python" value="519" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="feature" value="1" />
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/Locators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/RegistrationPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="26" selection-start-line="24" selection-start-column="3" selection-end-line="26" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/HomePage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="24" column="27" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="24" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/ConfirmationPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/test_TestCase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="40" column="27" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="40" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/registration.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="49" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/features/steps/register_steps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Program Files (x86)/Python37/Lib/site-packages/behave/runner_util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6">
+              <caret line="384" selection-start-line="384" selection-end-line="384" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Utility/ReadExcel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\kam\PycharmProjects\SeleniumPageObjectModel\Reports</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Locators.py" />
+        <option value="$PROJECT_DIR$/Pages/RegistrationPage.py" />
+        <option value="$USER_HOME$/Downloads/Python POM/Src/PageObject/Pages/HomePage.py" />
+        <option value="$PROJECT_DIR$/Pages/HomePage.py" />
+        <option value="$USER_HOME$/Downloads/Python POM/Src/PageObject/Pages/ConfirmationPage.py" />
+        <option value="$PROJECT_DIR$/Pages/TestCase.py" />
+        <option value="$PROJECT_DIR$/Data/data.json" />
+        <option value="$PROJECT_DIR$/Test/TestCase.py" />
+        <option value="$PROJECT_DIR$/Utility/ReadExcel.py" />
+        <option value="$PROJECT_DIR$/Test/test_TestCase.py" />
+        <option value="$PROJECT_DIR$/features/registration.feature" />
+        <option value="$PROJECT_DIR$/Pages/ConfirmationPage.py" />
+        <option value="$PROJECT_DIR$/features/steps/register_steps.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="118" />
+    <option name="y" value="71" />
+    <option name="width" value="1750" />
+    <option name="height" value="968" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
+              <item name="Utility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kam\PycharmProjects\SeleniumPageObjectModel\Test" />
+      <recent name="C:\Users\kam\PycharmProjects\SeleniumPageObjectModel" />
+      <recent name="C:\Users\kam\PycharmProjects\SeleniumPageObjectModel\Pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_TestCase">
+    <configuration name="test_TestCase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumPageObjectModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/test_TestCase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Test.TestCase.PythonOrgSearch" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPageObjectModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test.TestCase.PythonOrgSearch&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Test.test_TestCase" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="SeleniumPageObjectModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test.test_TestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Test.test_TestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPageObjectModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test.test_TestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Test.test_TestCase.RegistrationTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPageObjectModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test.test_TestCase.RegistrationTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Test.test_TestCase.RegistrationTest.test_search_in_python_org" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPageObjectModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test.test_TestCase.RegistrationTest.test_search_in_python_org&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_TestCase.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPageObjectModel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Test/test_TestCase.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for Test.test_TestCase" />
+      <item itemvalue="Python tests.Unittests for Test.TestCase.PythonOrgSearch" />
+      <item itemvalue="Python tests.Unittests for Test.test_TestCase.RegistrationTest.test_search_in_python_org" />
+      <item itemvalue="Python tests.Unittests for Test.test_TestCase.RegistrationTest" />
+      <item itemvalue="Python tests.Unittests in test_TestCase.py" />
+      <item itemvalue="Python.test_TestCase" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_TestCase" />
+        <item itemvalue="Python tests.Unittests in test_TestCase.py" />
+        <item itemvalue="Python tests.Unittests for Test.test_TestCase.RegistrationTest.test_search_in_python_org" />
+        <item itemvalue="Python tests.Unittests for Test.test_TestCase.RegistrationTest" />
+        <item itemvalue="Python tests.Unittests for Test.test_TestCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23df5af0-3c86-4a58-976e-ea678c219cd8" name="Default Changelist" comment="" />
+      <created>1541920855354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541920855354</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_TestCase_RegistrationTest_test_search_in_python_org - 2018.11.11 at 16h 40m 46s.xml">
+      <configuration name="Unittests for TestCase.RegistrationTest.test_search_in_python_org" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestCase_py - 2018.11.11 at 16h 41m 05s.xml">
+      <configuration name="Unittests in TestCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestCase_py - 2018.11.11 at 16h 44m 09s.xml">
+      <configuration name="Unittests in TestCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestCase_py - 2018.11.11 at 17h 00m 50s.xml">
+      <configuration name="Unittests in TestCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_TestCase_py - 2018.11.11 at 17h 04m 25s.xml">
+      <configuration name="Unittests in test_TestCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_TestCase_py - 2018.11.11 at 17h 08m 35s.xml">
+      <configuration name="Unittests in test_TestCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_TestCase_py - 2018.11.29 at 14h 21m 51s.xml">
+      <configuration name="Unittests in test_TestCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_TestCase_py - 2018.11.29 at 14h 23m 17s.xml">
+      <configuration name="Unittests in test_TestCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_TestCase_py - 2018.11.29 at 14h 29m 00s.xml">
+      <configuration name="Unittests in test_TestCase.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_TestCase_py - 2018.11.29 at 14h 29m 45s.xml">
+      <configuration name="Unittests in test_TestCase.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22444679" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29826465" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/Python POM/Src/PageObject/Pages/HomePage.py" />
+    <entry file="file://$USER_HOME$/Downloads/Python POM/Src/PageObject/Pages/ConfirmationPage.py" />
+    <entry file="file://$USER_HOME$/Downloads/Python POM/Test/TestUtility/ScreenShot.py" />
+    <entry file="file://$USER_HOME$/Downloads/Python POM/Src/PageObject/Pages/SignOnPage.py" />
+    <entry file="file://$PROJECT_DIR$/Utility/ReadExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/registration.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/test_TestCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" column="27" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="40" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/Locators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/HomePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/ConfirmationPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/RegistrationPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="26" selection-start-line="24" selection-start-column="3" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Python37/Lib/site-packages/behave/runner_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="384" selection-start-line="384" selection-end-line="384" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/steps/register_steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
