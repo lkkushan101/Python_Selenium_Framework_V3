@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/features/steps/register_steps.py" line="36" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="23df5af0-3c86-4a58-976e-ea678c219cd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utility/ReadExcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utility/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/registration.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/steps/register_steps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/ImageCompateTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/test_filedownload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utility/ImageCompare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utility/ScreenShotUtility.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utility/SilentDownloader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/SeleniumPageObjectModel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeleniumPageObjectModel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/ConfirmationPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/ConfirmationPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Data/data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/0d9c2916-bf5e-440d-b85d-b61311430cf5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/214d8df0-e019-4754-95ff-441b04df7d23-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/25980051-9a3d-4503-9447-b1dc0cb6b10c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/4711fd00-d5e5-49f3-8fbf-31fc94ddf562-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/594774da-3002-4625-9dd9-fd3acf472585-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/7050969c-4d8e-428d-b61c-2eb03dacec46-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/71e49dc1-aca5-46a2-8e07-f1ca9e375bc6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/7ba93c15-d20a-4f3b-be89-7c784a399d10-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/8bffb8a3-a715-4495-b50d-a3eaacb2f743-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/90179707-3b9b-47d6-b6a5-b7c79997a10e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/92e44e22-5c61-4f9b-b9c0-e0d3094d93fa-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/9637f862-421d-4cd9-bb7c-55cf85947c6e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/97b69400-acc4-44cc-93b6-351ee92e3191-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a6f05b6b-3904-4dc8-8334-3d899afb6935-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/bdf7c649-7d5e-4349-b3c1-f3a1dacf93b4-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/c2d58495-4873-430b-ba86-0a6badd70c86-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/cd5897b4-0fe7-4715-b488-6e01a12ba31a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/e5df5127-dd2d-4929-bffd-3d478489fa3b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/edc4ee9b-cebb-4f29-b8d8-6f922fb6bb42-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/f9ef8831-ad44-406f-8c43-96b21e9cef8e-result.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/test_TestCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test/test_TestCase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utility/ReadExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utility/ReadExcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/register_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/steps/register_steps.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,47 +112,85 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="2146312163">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="538" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="538" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="png" value="3" />
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="3" />
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pages/Locators.py">
+        <entry file="file://$PROJECT_DIR$/Utility/ScreenShotUtility.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="34">
+              <caret line="2" column="43" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pages/RegistrationPage.py">
+        <entry file="file://$PROJECT_DIR$/Utility/SilentDownloader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="26" selection-start-line="24" selection-start-column="3" selection-end-line="26" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Utility/ImageCompare.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/ImageCompateTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding>
-                <element signature="e#0#43#0" expanded="true" />
+                <element signature="e#0#50#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pages/HomePage.py">
+        <entry file="file://$PROJECT_DIR$/Test/test_filedownload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="24" column="27" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="24" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pages/ConfirmationPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="34">
+              <caret line="2" column="33" lean-forward="true" selection-end-line="2" selection-end-column="96" />
             </state>
           </provider>
         </entry>
@@ -133,8 +198,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/test_TestCase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="40" column="27" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="40" selection-end-column="27" />
+            <state>
+              <caret selection-end-line="10" selection-end-column="56" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -143,49 +208,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/registration.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="49" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/features/steps/register_steps.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/ScreenShots/sc3.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files (x86)/Python37/Lib/site-packages/behave/runner_util.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
-              <caret line="384" selection-start-line="384" selection-end-line="384" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/ScreenShots/sc2.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScreenShots/sc1.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Utility/ReadExcel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/data.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -205,7 +246,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -218,19 +259,24 @@
         <option value="$PROJECT_DIR$/Pages/TestCase.py" />
         <option value="$PROJECT_DIR$/Data/data.json" />
         <option value="$PROJECT_DIR$/Test/TestCase.py" />
-        <option value="$PROJECT_DIR$/Utility/ReadExcel.py" />
-        <option value="$PROJECT_DIR$/Test/test_TestCase.py" />
         <option value="$PROJECT_DIR$/features/registration.feature" />
         <option value="$PROJECT_DIR$/Pages/ConfirmationPage.py" />
+        <option value="$PROJECT_DIR$/Utility/ReadExcel.py" />
         <option value="$PROJECT_DIR$/features/steps/register_steps.py" />
+        <option value="$PROJECT_DIR$/Test/test_TestCase.py" />
+        <option value="$PROJECT_DIR$/Utility/ScreenShotUtility.py" />
+        <option value="$PROJECT_DIR$/Test/test_filedownload.py" />
+        <option value="$PROJECT_DIR$/Utility/SilentDownloader.py" />
+        <option value="$PROJECT_DIR$/Test/ImageCompateTest.py" />
+        <option value="$PROJECT_DIR$/Utility/ImageCompare.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="118" />
     <option name="y" value="71" />
-    <option name="width" value="1750" />
-    <option name="height" value="968" />
+    <option name="width" value="1044" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -243,53 +289,31 @@
         <subPane>
           <expand>
             <path>
-              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
+              <item name="Selenium_Python_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Python_Framework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Selenium_Python_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Python_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="CompareImages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="Selenium_Python_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Python_Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="DownloadedFiles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="steps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
+              <item name="Selenium_Python_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Python_Framework" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
+              <item name="Selenium_Python_Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Python_Framework" type="462c0819:PsiDirectoryNode" />
               <item name="Utility" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumPageObjectModel" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumPageObjectModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_Python_Framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -500,23 +524,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22444679" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2235529" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29826465" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2967213" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32786885" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -530,17 +553,11 @@
     <entry file="file://$USER_HOME$/Downloads/Python POM/Src/PageObject/Pages/ConfirmationPage.py" />
     <entry file="file://$USER_HOME$/Downloads/Python POM/Test/TestUtility/ScreenShot.py" />
     <entry file="file://$USER_HOME$/Downloads/Python POM/Src/PageObject/Pages/SignOnPage.py" />
-    <entry file="file://$PROJECT_DIR$/Utility/ReadExcel.py">
+    <entry file="file://C:/Program Files (x86)/Python37/Lib/site-packages/behave/runner_util.py" />
+    <entry file="file://$PROJECT_DIR$/Pages/ConfirmationPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="238">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -551,10 +568,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/test_TestCase.py">
+    <entry file="file://$PROJECT_DIR$/Data/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="40" column="27" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="40" selection-end-column="27" />
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/RegistrationPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-332">
+          <caret line="26" selection-start-line="24" selection-start-column="3" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/steps/register_steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="29" column="70" selection-start-line="22" selection-start-column="2" selection-end-line="29" selection-end-column="70" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -564,51 +595,81 @@
     <entry file="file://$PROJECT_DIR$/Pages/Locators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="17" />
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/HomePage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="24" column="27" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="24" selection-end-column="27" />
+        <state relative-caret-position="374">
+          <caret line="24" column="27" selection-start-line="23" selection-start-column="2" selection-end-line="24" selection-end-column="27" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/ConfirmationPage.py">
+    <entry file="file://$PROJECT_DIR$/Utility/ScreenShotUtility.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/RegistrationPage.py">
+    <entry file="file://$PROJECT_DIR$/Test/test_TestCase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="26" selection-start-line="24" selection-start-column="3" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Python37/Lib/site-packages/behave/runner_util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="384" selection-start-line="384" selection-end-line="384" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/steps/register_steps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state>
+          <caret selection-end-line="10" selection-end-column="56" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScreenShots/sc3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScreenShots/sc2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScreenShots/sc1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility/ReadExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility/SilentDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/test_filedownload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" lean-forward="true" selection-end-line="2" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/ImageCompateTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility/ImageCompare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>

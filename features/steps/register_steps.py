@@ -20,17 +20,18 @@ def step_impl(context):
 @when('user types enter new data')
 def step_impl(context):
     r = Register(driver)
-    r.setFirstName(readExcel('./Data/data.xlsx', 'B2'))
-    r.setLastName(readExcel('./Data/data.xlsx', 'C2'))
-    r.setPhone(readExcel('./Data/data.xlsx', 'G2'))
-    r.setCountry(readExcel('./Data/data.xlsx', 'D2'))
-    r.setEmail(readExcel('./Data/data.xlsx', 'H2'))
-    r.setUserName(readExcel('./Data/data.xlsx', 'E2'))
-    r.setPassword(readExcel('./Data/data.xlsx', 'I2'))
-    r.setConfirmPassword(readExcel('./Data/data.xlsx', 'I2'))
-    r.submit
-    r.submit
+    r.setFirstName(readExcel('./Data/data.xlsx','Sheet1', 'B2'))
+    r.setLastName(readExcel('./Data/data.xlsx','Sheet1', 'C2'))
+    r.setPhone(readExcel('./Data/data.xlsx','Sheet1', 'G2'))
+    r.setCountry(readExcel('./Data/data.xlsx','Sheet1', 'D2'))
+    r.setEmail(readExcel('./Data/data.xlsx','Sheet1', 'H2'))
+    r.setUserName(readExcel('./Data/data.xlsx','Sheet1', 'E2'))
+    r.setPassword(readExcel('./Data/data.xlsx','Sheet1', 'I2'))
+    r.setConfirmPassword(readExcel('./Data/data.xlsx','Sheet1', 'I2'))
+    r.submitRegistration()
 
-@then ('system should accept new user creation')
+
+@then('system should accept new user creation')
 def step_impl(context):
-    print('test')
+    driver.close()
+    print('Submitted')
